@@ -6,7 +6,7 @@ import java.util.Scanner;
 
 public class PhoneBook {
     private static final String HELP_STRING = """
-            Команды:
+            Commands:
             find [keyword]
             add
             update <id>
